@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.i{
+    color: rgb(84, 189, 210);
+}
+.i2{
+    color: rgb(4, 2, 35);
+}
+.image{
+    position: relative;
+    display: inline-block;
+}
+.nav{
+    position: absolute;
+    top: 10vh;
+    left: 30vh;
+}
+.a{
+    /* text-decoration: none; */
+    color: black
+}
+.b{
+    /* text-decoration: none; */
+    color: black
+}
+.c{
+    /* text-decoration: none; */
+    color: black
+}
+.texte{
+    position: absolute;
+    top: 75vh;
+    left: 25vh;
+}
+.texte2{
+    position: absolute;
+    top: 45vh;
+    left: 125vh;
+}
+.text-lumineux{
+    color: transparent;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.998);
+    animation: scintillement 7.5s ease-in-out infinite;
+}
+@keyframes scintillement{
+    0% {
+      text-shadow: 0 0 10px rgb(255, 255, 255);
+    }
+    50% {
+      text-shadow: 0 0 20px rgb(255, 255, 255), 0 0 30px rgba(7, 15, 163, 0.6);
+    }
+    100% {
+      text-shadow: 0 0 10px rgb(255, 255, 255);
+    }
+}
+.a{
+    font-size: 16px;
+    transition: font-size 0.2s ease-in-out;
+}
+.a:hover{
+    font-size: 25px;
+    color: white;
+}
+.b{
+    font-size: 16px;
+    transition: font-size 0.2s ease-in-out;
+}
+.b:hover{
+    font-size: 25px;
+    color: white;
+}
+.c{
+    font-size: 16px;
+    transition: font-size 0.2s ease-in-out;
+}
+.c:hover{
+    font-size: 25px;
+    color: white;
+}
