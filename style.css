@@ -81,25 +81,31 @@
 }
 .p{
     position: absolute;
-    color: black;
+    color: rgb(3, 9, 82);
     top: 30vh;
     left: 60vh;
 }
 .pp{
     position: absolute;
-    color: black;
+    color: rgb(3, 9, 82);
     top: 50vh;
     left: 30vh;
 }
+.ppp{
+    position: absolute;
+    color: rgb(3, 9, 82);
+    top: 30vh;
+    left: 55vh;
+}
 ul{
     position: absolute;
-    color: black;
+    color: rgb(3, 9, 82);
     top: 50vh;
     left: 75vh;
 }
 .formETexp{
     position: absolute;
-    color: black;
+    color: rgb(3, 9, 82);
     top: 80vh;
-    left: 47.5vh;
+    left: 15vh;
 }

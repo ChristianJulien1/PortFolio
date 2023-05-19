@@ -12,7 +12,7 @@
     <div class="image">
         <img src="universblue.jpg" alt="universblue" class="img-fluid">
         <nav class="nav text-lumineux"><a href="index.php" style="font-family: 'Times New Roman', Times, serif;" class="a fw-bold"><i>ACCUEIL</i></a></nav>
-        <h2 style="font-size: 4rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="p text-lumineux">Compétences</i></h2>
+        <h2 style="font-size: 4rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="ppp text-lumineux">Compétences</i></h2>
         <div class="text-lumineux">
         <ul class="liste fw-bolder" style="font-size:1.5rem; font-family: 'Times New Roman', Times, serif; letter-spacing:3px;">
             <i>

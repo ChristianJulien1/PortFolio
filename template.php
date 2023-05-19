@@ -14,7 +14,7 @@
         <nav class="nav text-lumineux"><a href="index.php" style="font-family: 'Times New Roman', Times, serif;" class="a fw-bold"><i>ACCUEIL</i></a></nav>
         <h2 style="font-size: 4rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="p text-lumineux">Présentation</i></h2>
         <h3 style="font-size: 2rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 3px;"><i class="pp text-center text-lumineux">Bonjour à vous, et bienvenue sur mon portfolio !
-        <br>Je m'appelle Christian, m'orientant dans le développant
+        <br>Je m'appelle Christian, m'orientant dans le développement
         <br>web et web mobile, je serais ravi d'accroître 
         <br>mon expérience avec vous et de surcroît,
         <br>satisfaire vos requêtes pour votre environnement
