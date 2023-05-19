@@ -19,7 +19,7 @@
 }
 .a{
     /* text-decoration: none; */
-    color: black
+    color: black;
 }
 .b{
     /* text-decoration: none; */
@@ -78,4 +78,28 @@
 .c:hover{
     font-size: 25px;
     color: white;
+}
+.p{
+    position: absolute;
+    color: black;
+    top: 30vh;
+    left: 60vh;
+}
+.pp{
+    position: absolute;
+    color: black;
+    top: 50vh;
+    left: 30vh;
+}
+ul{
+    position: absolute;
+    color: black;
+    top: 50vh;
+    left: 75vh;
+}
+.formETexp{
+    position: absolute;
+    color: black;
+    top: 80vh;
+    left: 47.5vh;
 }
