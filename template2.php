@@ -9,13 +9,15 @@
     <title>PortFolio</title>
 </head>
 <body>
-    <div class="image">
+    <div class="image position-relative">
         <img src="universblue.jpg" alt="universblue" class="img-fluid">
-        <nav class="nav text-lumineux"><a href="index.php" style="font-family: 'Times New Roman', Times, serif;" class="a fw-bold"><i>ACCUEIL</i></a></nav>
-        <h2 style="font-size: 4rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="ppp text-lumineux">Compétences</i></h2>
+        <nav class="nav text-lumineux position-absolute mt-2 ms-5 top-0 start-0"><a href="index.php" style="font-family: 'Times New Roman', Times, serif;" class="a fw-bold"><i>ACCUEIL</i></a></nav>
         <div class="text-lumineux">
-        <ul class="liste fw-bolder" style="font-size:1.5rem; font-family: 'Times New Roman', Times, serif; letter-spacing:3px;">
-            <i>
+            <ul class="liste fw-bold position-absolute translate-middle text-start top-50 start-50" style="font-size:1rem; font-family: 'Times New Roman', Times, serif; letter-spacing:1px;">
+            <i class="ppp text-lumineux">
+            <br>COMPETENCES
+            <br>
+            <br>
             <li>Visual Studio Code</li>
             <li>Figma</li>
             <li>HTML5</li>

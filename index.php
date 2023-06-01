@@ -9,15 +9,13 @@
     <title>PortFolio</title>
 </head>
 <body>
-    <div class="image">
+    <div class="image position-relative">
         <img src="universblue.jpg" alt="universblue" class="img-fluid">   
-            <nav class="nav text-lumineux"><a href="Présentation" style="font-family: 'Times New Roman', Times, serif;" class="a fw-bold"><i>PRESENTATION</i></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="Compétences" style="font-family: 'Times New Roman', Times, serif;" class="b fw-bold"><i>COMPETENCES</i></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="Formationsetexpériences" style="font-family: 'Times New Roman', Times, serif;" class="c fw-bold"><i>FORMATIONS ET EXPERIENCES<i></a></nav>
-        <div class="texte text-lumineux">
-            <h1 style="font-size: 5rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="i">M.Christian</i></h1>
-        </div>
-        <div class="texte2 text-center text-lumineux">
-            <h2 style="font-size: 2rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="i2">Développeur web
-            <br>et web mobile</i></h2>
+            <nav class="nav text-lumineux position-absolute mt-2 ms-5 top-0 start-0"><a href="Présentation" style="font-family: 'Times New Roman', Times, serif;" class="a fw-bold"><i>PRESENTATION</i></a>&emsp;&emsp;&emsp;<a href="Compétences" style="font-family: 'Times New Roman', Times, serif;" class="b fw-bold"><i>COMPETENCES</i></a>&emsp;&emsp;&emsp;<a href="Formationsetexpériences" style="font-family: 'Times New Roman', Times, serif;" class="c fw-bold"><i>FORMATIONS ET EXPERIENCES<i></a></nav>
+        <div class="texte start-50 top-50 position-absolute translate-middle text-center text-lumineux">
+            <h2 style="font-size: 2rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="i2 fs-1 fw-bold">Développeur web
+                <br>et web mobile</i></h2>
+            <h1 style="font-size: 5rem; font-family: 'Times New Roman', Times, serif; letter-spacing: 17px;"><i class="i fs-1 fw-bold">M.Christian</i></h1>
         </div>
     </div>
 
